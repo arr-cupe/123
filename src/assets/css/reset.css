@@ -1,0 +1,6 @@
+*{padding: 0;margin: 0;user-select: none;}
+a{text-decoration: none;color: grey;}
+ul,li{list-style: none;}
+input,select{outline: none;}
+button{outline: none;border: none;}
+img{border: none;}
